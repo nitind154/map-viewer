@@ -9,7 +9,7 @@ This template demonstrates how to use the [ArcGIS Maps SDK for JavaScript](https
 To quickly scaffold a new application using this template, run the following command in your terminal:
 
 ```bash
-npx @arcgis/create -n my-arcgis-app -t react
+npx @arcgis/create -n mapviewer -t react
 ```
 
 This template uses the following packages:
